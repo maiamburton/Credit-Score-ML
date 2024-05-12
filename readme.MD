@@ -1,4 +1,4 @@
-# ECS 171 Group 13 Project
+# ECS 171 Machine Learning Credit Score Project
 ## Instructions to Run
 Before running, you have to install streamlit through [here](https://docs.streamlit.io/get-started/installation).
 
